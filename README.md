@@ -1,2 +1,0 @@
-# Örkelljunga bibliotek - group examination
-
