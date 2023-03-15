@@ -1,8 +1,6 @@
 # Örkelljunga bibliotek - group examination
 
-Fabiola
-Anton
-Elin - EPL
+Fabiola FP(?), Anton AE(?), Elin - EPL
 
 
 15/3
