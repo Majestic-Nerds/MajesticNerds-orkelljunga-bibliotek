@@ -19,3 +19,8 @@ Definition of done behöver också definieras.
 
 Vilka user stories är beroende av att någon tidigare har gjorts?
 Pratade om att integrera scannern- kom fram till at det ej var första, men borde det kanske vara det? #10 är väl beroende av #1? -EPL
+
+15/3
+- Backlog sorterad efter prioritet. Kommit fram till att en del funktionalitet bygger på att systemet är integrerat med scannern.
+- Börjat välja ut vilka user stories som kommer att ingå i sprinten. Brutit ner dessa till mindre tasks och kopplat ihop med tillhörande user stories, samt vilka dependencies de har. 
+- Tidsestimering behöver göras på varje task för att säkertställa att vi håller oss inom ramen för sprintperioden. Kommit överens om att 1p motsvarar en dags arbete för en person. Således finns 30p att fördela över två veckor (3 pers, 5 arbetsdagar/vecka).
