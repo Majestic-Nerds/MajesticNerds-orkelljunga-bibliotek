@@ -1,5 +1,21 @@
 # Örkelljunga bibliotek - group examination
 
+## Sprint planning
+We are a team consisting of three senior developers. Together we have 30 points to distribute over a two week sprint. One point corresponds to one work day for one developer. 
+
+## Sprint goal
+To integrate and merge current scanners and databases from previous system into the new system.
+
+## Definition of Done
+- The code has been reviewed and approved by a colleague 
+- Acceptance criteria met 
+- Functional tests passed 
+- Functional tests passed in all browsers 
+- Simple documentation written 
+- Merged with dev-branch
+
+## Project log 
+
 Fabiola
 Anton
 Elin - EPL
@@ -9,14 +25,13 @@ Elin - EPL
 - Skapat en arbetstavla för den första sprinten i projektet. 
 
 Vår product backlog består i huvudsak av user stories, märkta efter olika personas. I detta projekt finns användare, bibliotikarie och system.
-Vid sprintplaneringen väljer gruppen vilka user stories som ska ingå i sprinten. Dessa läggs över till vår sprint backlog och bryts sedan ner i mindre tasks eller spikes som ligger till grund för arbetet under sprinten. Varje task ska tidsestimeras. Vi har räknat att vårt team, med tre utvecklare, har en pott på 240 h att fördela över en sprint på två veckor.
+Vid sprintplaneringen väljer gruppen vilka user stories som ska ingå i sprinten. Dessa läggs över till vår sprint backlog och bryts sedan ner i mindre tasks eller spikes som ligger till grund för arbetet under sprinten (to do). Varje task ska tidsuppskattas. Vi har räknat att vårt team, med tre utvecklare, har en pott på 240 h att fördela över en sprint på två veckor.
 
 Inför varje sprint definieras ett sprintmål. Det är en kort beskrivning av vad vi vill åstadkomma under den kommande sprinten. 
 Definition of done behöver också definieras.
 /Fabiola
 
 15/3
-
 Vilka user stories är beroende av att någon tidigare har gjorts?
 Pratade om att integrera scannern- kom fram till at det ej var första, men borde det kanske vara det? #10 är väl beroende av #1? -EPL
 
@@ -24,4 +39,9 @@ Pratade om att integrera scannern- kom fram till at det ej var första, men bord
 - Backlog sorterad efter prioritet. Kommit fram till att en del funktionalitet bygger på att systemet är integrerat med scannern.
 - Börjat välja ut vilka user stories som kommer att ingå i sprinten. Brutit ner dessa till mindre tasks och kopplat ihop med tillhörande user stories, samt vilka dependencies de har. 
 - Tidsestimering behöver göras på varje task för att säkertställa att vi håller oss inom ramen för sprintperioden. Kommit överens om att 1p motsvarar en dags arbete för en person. Således finns 30p att fördela över två veckor (3 pers, 5 arbetsdagar/vecka). 
+/Fabiola
+
+15/3
+Skrivit ner sprintmål och definition of done samt updaterat tavlan och projektloggen.
+Återstår att tidsuppskatta varje task. 
 /Fabiola
