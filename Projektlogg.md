@@ -16,9 +16,9 @@ To integrate and merge current scanners and databases from previous system into 
 
 ## Project log 
 
-Fabiola
-Anton
-Elin - EPL
+* Fabiola
+* Anton
+* Elin - EPL
 
 14/3
 - Skapat en product backlog med user stories baserade på de funktionella kraven. 
