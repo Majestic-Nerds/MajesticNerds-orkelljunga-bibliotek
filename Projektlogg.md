@@ -30,3 +30,9 @@ Pratade om att integrera scannern- kom fram till at det ej var första, men bord
 Skrivit ner sprintmål och definition of done samt updaterat tavlan och projektloggen.
 Återstår att tidsuppskatta varje task. 
 /Fabiola
+
+16/3
+- Lagt till dependencies på tasks markerade med 1 och 2. Samt koppling till kort. 
+- Tidsestimerat uppgifterna i to do för sprint 1. Totalt 30p. Mest tid tänker jag att det kommer att ta att koppla nya systemet till tidigare scanners.
+- Lagt till labels med prioritet på user stories i backlog. 
+/Fabiola
