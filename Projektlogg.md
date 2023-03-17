@@ -38,4 +38,5 @@ Skrivit ner sprintmål och definition of done samt updaterat tavlan och projektl
 /Fabiola
 
 17/3
+
 Skrev ner en kort förklaring till Maja om upplägget i boarden för att lättare kunna följa tankegången. /Fabiola
