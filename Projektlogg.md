@@ -36,3 +36,6 @@ Skrivit ner sprintmål och definition of done samt updaterat tavlan och projektl
 - Tidsestimerat uppgifterna i to do för sprint 1. Totalt 30p. Mest tid tänker jag att det kommer att ta att koppla nya systemet till tidigare scanners.
 - Lagt till labels med prioritet på user stories i backlog. 
 /Fabiola
+
+17/3
+Skrev ner en kort förklaring till Maja om upplägget i boarden för att lättare kunna följa tankegången. /Fabiola
